@@ -1,3 +1,3 @@
 if game.GameId == 3808081382 then
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/Amachono/Golden-Scripts/refs/heads/main/Phanstasm%20Hub/TSB.lua.txt"))()
+  loadstring(game:HttpGet("https://github.com/Amachono/Golden-Scripts/raw/refs/heads/main/Phanstasm%20Hub/TSB.lua.txt"))()
 end
