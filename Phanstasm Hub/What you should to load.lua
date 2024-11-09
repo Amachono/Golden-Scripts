@@ -1,1 +1,1 @@
-getgenv().ToggleKeybind = Enum.KeyCode.RightControl getgenv().FreeEmotesTab = true loadstring(game:HttpGet("https://raw.githubusercontent.com/Amachono/Golden-Scripts/refs/heads/main/loader.txt"))()
+getgenv().ToggleKeybind = Enum.KeyCode.RightControl getgenv().FreeEmotesTab = true loadstring(game:HttpGet("https://raw.githubusercontent.com/Amachono/Golden-Scripts/refs/heads/main/Phanstasm%20Hub/loader.txt"))()
