@@ -23,7 +23,7 @@ local Players = game:GetService("Players")
 local CoreGui = game:GetService("CoreGui")
 local Highlight =
 	loadstring(
-		game:HttpGet("https://github.com/exxtremestuffs/SimpleSpySource/raw/master/highlight.lua")
+		game:HttpGet("https://raw.githubusercontent.com/Amachono/Golden-Scripts/refs/heads/main/Mobile%20Remote%20Spy/follower.txt")
 	)()
 
 ---- GENERATED (kinda sorta mostly) BY GUI to LUA ----
